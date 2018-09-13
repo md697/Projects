@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction and Theory}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Overview}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Nonlinear Dynamics of the Quadrotor}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Definition of Control Inputs}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Procedure}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Derivation of the Control Law}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Simulation of the Quadrotor System}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Top-Level Block Diagram}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Controller Block Diagram}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Dynamics Block Diagram}{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Singularity Rejection}{subsection.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.3}{Tuning Parameters}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Results}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Upside-Down Toss}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.2}{Extreme Angular Rates}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.3}{2D Weaving}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Step Disturbance Rejection}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 18
+\BOOKMARK [1][-]{appendix.A}{runMain.m}{}% 19
+\BOOKMARK [1][-]{appendix.B}{QuadrotorConstants.m}{}% 20
+\BOOKMARK [1][-]{appendix.C}{TuningParameters.m}{}% 21
+\BOOKMARK [1][-]{appendix.D}{animateQuadrotor.m}{}% 22

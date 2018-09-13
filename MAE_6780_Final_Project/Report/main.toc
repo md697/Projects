@@ -1,0 +1,23 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction and Theory}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Overview}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Nonlinear Dynamics of the Quadrotor}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Definition of Control Inputs}{5}{subsection.1.3}
+\contentsline {section}{\numberline {2}Procedure}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Derivation of the Control Law}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Simulation of the Quadrotor System}{8}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Top-Level Block Diagram}{8}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Controller Block Diagram}{9}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Dynamics Block Diagram}{10}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Singularity Rejection}{11}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Tuning Parameters}{12}{subsection.2.3}
+\contentsline {section}{\numberline {3}Results}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Upside-Down Toss}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Extreme Angular Rates}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}2D Weaving}{15}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Step Disturbance Rejection}{16}{subsection.3.4}
+\contentsline {section}{\numberline {4}Conclusion}{17}{section.4}
+\contentsline {section}{\numberline {A}runMain.m}{19}{appendix.A}
+\contentsline {section}{\numberline {B}QuadrotorConstants.m}{25}{appendix.B}
+\contentsline {section}{\numberline {C}TuningParameters.m}{26}{appendix.C}
+\contentsline {section}{\numberline {D}animateQuadrotor.m}{28}{appendix.D}
